@@ -1,14 +1,16 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Courier New", Courier, monospace;
+    background-color: #EEA47F;
+    font-size: larger;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #3498db;
-    color: #fff;
-    text-align: center;
-    padding: 20px;
+    background-color: #286ca7;
+    color: black;
+    text-align: left;
+    padding: 60px;
 }
 
 header h1 {
@@ -16,7 +18,7 @@ header h1 {
 }
 
 nav {
-    background-color: #2c3e50;
+    background-color: ;
     color: #fff;
     display: flex;
     justify-content: space-around;
@@ -47,7 +49,7 @@ main {
 section {
     width: 30%;
     padding: 20px;
-    background-color: #ecf0f1;
+    background-color: purple;
     box-shadow: 0 2px 3px #ccc;
 }
 
